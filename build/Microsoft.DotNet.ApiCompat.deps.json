@@ -26,7 +26,7 @@
           "System.ComponentModel.Annotations": "4.4.1"
         },
         "runtime": {
-          "lib/netstandard2.0/McMaster.Extensions.CommandLineUtils.dll": {
+          "lib/netstandard2.1/McMaster.Extensions.CommandLineUtils.dll": {
             "assemblyVersion": "2.3.0.0",
             "fileVersion": "2.3.0.473"
           }
